@@ -1,5 +1,5 @@
 #설탕배달
-#그리디 -> 걍 다 ㅈ까고 조합 시전 -> 몰라레후
+#그리디 -> 걍 다 ㅈ까고 조합 시전 -> DFS
 
 from itertools import combinations
 

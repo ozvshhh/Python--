@@ -1,2 +1,3 @@
-a = [*range(10 )]
-print(a)
+
+if 1:
+    print(1)
