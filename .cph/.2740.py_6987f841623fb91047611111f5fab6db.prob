@@ -1,0 +1,1 @@
+{"name":"Local: 2740","url":"c:\\Users\\dlgkd\\OneDrive\\문서\\programming\\Python백준\\2740.py","tests":[{"id":1695773665771,"input":"3 2\n1 2\n3 4\n5 6\n2 3\n-1 -2 0\n0 0 3","output":"-1 -2 6\n-3 -6 12\n-5 -10 18"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dlgkd\\OneDrive\\문서\\programming\\Python백준\\2740.py","group":"local","local":true}

@@ -1,7 +1,1 @@
-a = [1,2,3,4,5]
-
-
-def printArr(arr):
-    print(arr)
-
-printArr(a[0:])
+print(set({i for i in range(1,21)}))
